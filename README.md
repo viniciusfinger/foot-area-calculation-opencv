@@ -2,7 +2,7 @@
 
 Automate the calculation of foot area from images using computer vision techniques. This project provides a streamlined approach to measuring foot dimensions accurately, aiding in various applications such as footwear design and medical diagnostics 📏👟
 
-![image](uasge.png)
+![image](usage.png)
 
 
 ## Features
@@ -25,10 +25,14 @@ Before running the application, ensure you have the following installed:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/viniciusfinger/foot-area-calculation-opencv.git
+   ```
+
+2. **Open the folder:**
+   ```bash
    cd foot-area-calculation
    ```
 
-2. run the project
+3. **Run the project:**
     ```bash
     python3 calculateFeetArea.py
     ```
